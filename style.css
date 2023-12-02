@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(190,3,159); 
+    margin: 0;
+    padding: 0;
+}
+.main-container{
+    background-color: rgb(10,10,10);
+    height: 200;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+canvas{
+    background-color: #ffffff;
+}
